@@ -1,2 +1,1 @@
-# little-virus
-小小bat病毒
+小小bat病毒，可能有bug，不喜勿喷！
